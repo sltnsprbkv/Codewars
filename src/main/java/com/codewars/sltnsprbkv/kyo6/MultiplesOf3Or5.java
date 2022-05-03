@@ -1,7 +1,7 @@
 package com.codewars.sltnsprbkv.kyo6;
 
 /**
- * https://www.codewars.com/kata/514b92a657cdc65150000006/train/java/6263f3879eeaac004ba254e9
+ * https://www.codewars.com/kata/514b92a657cdc65150000006/train/java/
  */
 
 public class MultiplesOf3Or5 {
